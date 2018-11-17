@@ -1,0 +1,9 @@
+{
+    "loginPage": {
+        "title":"Login",
+        "description":"Sign In to your account",
+        "usernameplaceholder":"Username",
+        "passwordplaceholder":"Password",
+        "Forgotpassword":"Forgot Password?"
+    }
+}

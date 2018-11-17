@@ -1,0 +1,9 @@
+{
+    "loginPage": {
+        "title":"S'identifier",
+        "description":"Connectez-vous à votre compte",
+        "usernameplaceholder":"Nom d'utilisateur",
+        "passwordplaceholder":"Mot de passe",
+        "Forgotpassword":"Mot de passe oublié?"
+    }
+}
